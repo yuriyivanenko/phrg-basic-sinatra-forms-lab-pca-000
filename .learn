@@ -6,3 +6,4 @@ languages:
   - ruby
   - html
 resources: 0
+parent_template: git@github.com:learn-co-curriculum/basic-sinatra-forms-lab.git

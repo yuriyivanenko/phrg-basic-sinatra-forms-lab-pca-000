@@ -63,4 +63,4 @@ Pass the tests! Make sure you read the test output carefully!
 
 [capybara-click_button]: http://www.rubydoc.info/gems/capybara/Capybara%2FNode%2FActions%3Aclick_button
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-sinatra-forms-lab' title='Sinatara Forms Lab'>Sinatara Forms Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra Forms Lab</p>
